@@ -4,7 +4,6 @@
 🙋‍♂️ Olá, sou Wesley Alves
 - 👨‍💻Adoro o mundo DEV - iniciante ainda 
 - 🌱 Atualmente estou aprendendo - Html | Css | Js....
-- 😍 Namorando
 - 📕 Gosto de aprender
 - ✌️ Desempregado atrás de oportunidades
   
